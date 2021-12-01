@@ -1,0 +1,59 @@
+C:\Users\Borut\source\repos\Software Rede Hotelaria\Software Rede Hotelaria\bin\Debug\netcoreapp3.1\Software Rede Hotelaria.exe
+C:\Users\Borut\source\repos\Software Rede Hotelaria\Software Rede Hotelaria\bin\Debug\netcoreapp3.1\Software Rede Hotelaria.deps.json
+C:\Users\Borut\source\repos\Software Rede Hotelaria\Software Rede Hotelaria\bin\Debug\netcoreapp3.1\Software Rede Hotelaria.runtimeconfig.json
+C:\Users\Borut\source\repos\Software Rede Hotelaria\Software Rede Hotelaria\bin\Debug\netcoreapp3.1\Software Rede Hotelaria.runtimeconfig.dev.json
+C:\Users\Borut\source\repos\Software Rede Hotelaria\Software Rede Hotelaria\bin\Debug\netcoreapp3.1\Software Rede Hotelaria.dll
+C:\Users\Borut\source\repos\Software Rede Hotelaria\Software Rede Hotelaria\bin\Debug\netcoreapp3.1\Software Rede Hotelaria.pdb
+C:\Users\Borut\source\repos\Software Rede Hotelaria\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software Rede Hotelaria.csprojAssemblyReference.cache
+C:\Users\Borut\source\repos\Software Rede Hotelaria\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software_Rede_Hotelaria.Form1.resources
+C:\Users\Borut\source\repos\Software Rede Hotelaria\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software_Rede_Hotelaria.Properties.Resources.resources
+C:\Users\Borut\source\repos\Software Rede Hotelaria\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software Rede Hotelaria.csproj.GenerateResource.cache
+C:\Users\Borut\source\repos\Software Rede Hotelaria\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software Rede Hotelaria.AssemblyInfoInputs.cache
+C:\Users\Borut\source\repos\Software Rede Hotelaria\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software Rede Hotelaria.AssemblyInfo.cs
+C:\Users\Borut\source\repos\Software Rede Hotelaria\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software Rede Hotelaria.csproj.CoreCompileInputs.cache
+C:\Users\Borut\source\repos\Software Rede Hotelaria\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software Rede Hotelaria.dll
+C:\Users\Borut\source\repos\Software Rede Hotelaria\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software Rede Hotelaria.pdb
+C:\Users\Borut\source\repos\Software Rede Hotelaria\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software Rede Hotelaria.genruntimeconfig.cache
+C:\Users\Borut\source\repos\Software Rede Hotelaria\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software_Rede_Hotelaria.Home.resources
+C:\Users\Borut\source\repos\Software Rede Hotelaria\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software_Rede_Hotelaria.CadastroC.resources
+C:\Users\Borut\source\repos\Software Rede Hotelaria\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software_Rede_Hotelaria.PagarDiaria.resources
+C:\Users\Borut\source\repos\Software Rede Hotelaria\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software_Rede_Hotelaria.ReservarQ.resources
+C:\Users\Borut\source\repos\Software Rede Hotelaria\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software_Rede_Hotelaria.OpADM.resources
+C:\Users\Borut\source\repos\Software Rede Hotelaria\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software_Rede_Hotelaria.CadastroF.resources
+C:\Users\Borut\source\repos\Software Rede Hotelaria\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software_Rede_Hotelaria.CadastroQ.resources
+C:\Users\Borut\source\repos\Software Rede Hotelaria\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software_Rede_Hotelaria.CQ.resources
+C:\Users\Borut\source\repos\Software Rede Hotelaria\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software_Rede_Hotelaria.CadH.resources
+C:\Users\Borut\source\repos\Software Rede Hotelaria\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software_Rede_Hotelaria.SQ.resources
+C:\Users\Fubuk\PIM-Hotelaria-Vallhala\Telas\Software Rede Hotelaria\bin\Debug\netcoreapp3.1\Software Rede Hotelaria.exe
+C:\Users\Fubuk\PIM-Hotelaria-Vallhala\Telas\Software Rede Hotelaria\bin\Debug\netcoreapp3.1\Software Rede Hotelaria.deps.json
+C:\Users\Fubuk\PIM-Hotelaria-Vallhala\Telas\Software Rede Hotelaria\bin\Debug\netcoreapp3.1\Software Rede Hotelaria.runtimeconfig.json
+C:\Users\Fubuk\PIM-Hotelaria-Vallhala\Telas\Software Rede Hotelaria\bin\Debug\netcoreapp3.1\Software Rede Hotelaria.runtimeconfig.dev.json
+C:\Users\Fubuk\PIM-Hotelaria-Vallhala\Telas\Software Rede Hotelaria\bin\Debug\netcoreapp3.1\Software Rede Hotelaria.dll
+C:\Users\Fubuk\PIM-Hotelaria-Vallhala\Telas\Software Rede Hotelaria\bin\Debug\netcoreapp3.1\Software Rede Hotelaria.pdb
+C:\Users\Fubuk\PIM-Hotelaria-Vallhala\Telas\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software Rede Hotelaria.csproj.AssemblyReference.cache
+C:\Users\Fubuk\PIM-Hotelaria-Vallhala\Telas\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software_Rede_Hotelaria.CadastroC.resources
+C:\Users\Fubuk\PIM-Hotelaria-Vallhala\Telas\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software_Rede_Hotelaria.CadastroF.resources
+C:\Users\Fubuk\PIM-Hotelaria-Vallhala\Telas\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software_Rede_Hotelaria.CadastroQ.resources
+C:\Users\Fubuk\PIM-Hotelaria-Vallhala\Telas\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software_Rede_Hotelaria.CadH.resources
+C:\Users\Fubuk\PIM-Hotelaria-Vallhala\Telas\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software_Rede_Hotelaria.CQ.resources
+C:\Users\Fubuk\PIM-Hotelaria-Vallhala\Telas\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software_Rede_Hotelaria.Form1.resources
+C:\Users\Fubuk\PIM-Hotelaria-Vallhala\Telas\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software_Rede_Hotelaria.Home.resources
+C:\Users\Fubuk\PIM-Hotelaria-Vallhala\Telas\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software_Rede_Hotelaria.OpADM.resources
+C:\Users\Fubuk\PIM-Hotelaria-Vallhala\Telas\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software_Rede_Hotelaria.PagarDiaria.resources
+C:\Users\Fubuk\PIM-Hotelaria-Vallhala\Telas\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software_Rede_Hotelaria.Properties.Resources.resources
+C:\Users\Fubuk\PIM-Hotelaria-Vallhala\Telas\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software_Rede_Hotelaria.ReservarQ.resources
+C:\Users\Fubuk\PIM-Hotelaria-Vallhala\Telas\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software_Rede_Hotelaria.SQ.resources
+C:\Users\Fubuk\PIM-Hotelaria-Vallhala\Telas\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software Rede Hotelaria.csproj.GenerateResource.cache
+C:\Users\Fubuk\PIM-Hotelaria-Vallhala\Telas\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software Rede Hotelaria.AssemblyInfoInputs.cache
+C:\Users\Fubuk\PIM-Hotelaria-Vallhala\Telas\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software Rede Hotelaria.AssemblyInfo.cs
+C:\Users\Fubuk\PIM-Hotelaria-Vallhala\Telas\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software Rede Hotelaria.csproj.CoreCompileInputs.cache
+C:\Users\Fubuk\PIM-Hotelaria-Vallhala\Telas\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software Rede Hotelaria.dll
+C:\Users\Fubuk\PIM-Hotelaria-Vallhala\Telas\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software Rede Hotelaria.pdb
+C:\Users\Fubuk\PIM-Hotelaria-Vallhala\Telas\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software Rede Hotelaria.genruntimeconfig.cache
+C:\Users\Fubuk\PIM-Hotelaria-Vallhala\Telas\Software Rede Hotelaria\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Fubuk\PIM-Hotelaria-Vallhala\Telas\Software Rede Hotelaria\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Fubuk\PIM-Hotelaria-Vallhala\Telas\Software Rede Hotelaria\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Fubuk\PIM-Hotelaria-Vallhala\Telas\Software Rede Hotelaria\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Fubuk\PIM-Hotelaria-Vallhala\Telas\Software Rede Hotelaria\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Fubuk\PIM-Hotelaria-Vallhala\Telas\Software Rede Hotelaria\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Fubuk\PIM-Hotelaria-Vallhala\Telas\Software Rede Hotelaria\obj\Debug\netcoreapp3.1\Software Rede Hotelaria.csproj.CopyComplete

@@ -1,0 +1,225 @@
+<!doctype html>
+
+<html lang="pt-br" id="top">
+    <head>
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title> Hotel Valhalla </title>
+        <script src="https://unpkg.com/feather-icons"></script>
+        <link href="css/style.css" rel="stylesheet" />
+        <link rel="shortcut icon" href="assets/valhalla.ico" type="image/x-icon">
+    </head>
+    <body>
+        <header>
+            <nav>
+                <p> Valhalla Hotel </p>
+                <ul>
+                    <img  class = "bandeiraBr" src ="assets/bandeira_brasileira.png"
+                    alt="Bandeira brasileira">
+                    <label class="switch">
+                        <input id="check" type="checkbox" checked onchange="window.location.href='Site.html'">
+                            <span class="slider"></span>
+                        </label>
+                    <img  class = "bandeiraUs" src ="assets/bandeira_americana.jpg"
+                    alt="Bandeira dos EUA">
+                    <li><a href="#inicio"> Home </a></li>
+                    <li><a href="#quartos"> Rooms </a></li>
+                    <li><a href="#serviços"> Services </a></li>
+                    <li><a href="#contato"> Contact </a></li>
+                </ul>
+            </nav>
+            
+
+            <div id= "home"class="header-content">
+                <h1> Valhalla Hotel </h1>
+                <p> Come rest and have a unique experience with us!</p>
+                <button> Book my Stay </button>
+            </div>
+        </header>
+
+        <section id="quartos" class="quartos">
+
+            <h1 class="quartos-title"> Check out our options </h1>
+
+       <div class="quartos-cards">
+
+            <div class="card">
+
+                <div class="card-tag-top">
+                    <p> Cheaper </p>
+                </div>
+
+                <div class="card-tag-bottom">
+                    <p> R$150,00 </p>
+                </div>
+
+                <img class="card-image" src="https://media-cdn.tripadvisor.com/media/photo-s/03/9e/e5/53/dupere-hoteis.jpg">
+                <div class="card-content">
+                    <h1> Standard Room </h1>
+                    <ul>
+                        <li> <i data-feather="coffee"></i> Breakfast</li>
+                        <li> <i data-feather="wifi"></i> Free Wi-fi</li>
+                        <li> <i data-feather="wind"></i> Air Conditioning and Minibar </li>
+                        <li> <i data-feather="tv"></i> Room with TV</li>
+                        <li> <i data-feather="user"></i> Single Bed</li>
+                    </ul> 
+                </div>
+            </div>
+            
+            <div class="card">
+
+                <div class="card-tag-top">
+                    <p> More confort </p>
+                </div>
+
+                <div class="card-tag-bottom">
+                    <p> R$300,00 </p>
+                </div>
+
+                <img class="card-image" src="https://images.unsplash.com/photo-1618773928121-c32242e63f39?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80">
+                <div class="card-content">
+                    <h1> Suite </h1>
+                    <ul>
+                        <li> <i data-feather="coffee"></i> Breakfast </li>
+                        <li> <i data-feather="wifi"></i> Free Wi-Fi</li>
+                        <li> <i data-feather="wind"></i> Air Conditioning and Minibar </li>
+                        <li> <i data-feather="tv"></i> Room with TV </li>
+                        <li> <i data-feather="users"></i> Double Bed + Single Bed</li>
+                    </ul> 
+                </div>
+            </div>
+
+            <div class="card">
+
+                <div class="card-tag-top">
+                    <p> Best experience </p>
+                </div>
+
+                <div class="card-tag-bottom">
+                    <p> R$500,00 </p>
+                </div>
+
+                <img class="card-image" src="https://images.unsplash.com/photo-1613553474179-e1eda3ea5734?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80">
+                <div class="card-content">
+                    <h1> Premium Suite </h1>
+                    <ul>
+                        <li> <i data-feather="coffee"></i> Special Breakfast</li>
+                        <li> <i data-feather="wifi"></i> Free Wi-Fi</li>
+                        <li> <i data-feather="wind"></i> Air Conditioning and Minibar </li>
+                        <li> <i data-feather="tv"></i> Bedroom and Livingroom with TV </li>
+                        <li> <i data-feather="users"></i> Double Bed + Single Bed + Jacuzzi</li>
+                    </ul> 
+                </div>
+            </div>
+        </div>
+       </section>        
+
+       <section id="servicos" class="serviços">
+           <h1 class="serviços-titulo"> Services </h1>
+            <div class="serviços-cards">
+                <div class="card">
+                 <i data-feather="map"></i>
+               
+                 <h3> Attractions and Tours </h3>
+                 <p> With our tours, you can make the most of all the attractions you are entitled to, turning still more unforgettable your experience with us. </p>
+                </div>
+                <div class="card">
+                    <i data-feather="github"></i>
+                   
+                    <h3> Pet Friendly </h3>
+                    <p> Why don't you bring your pet to rest too? Here, beyond it is welcome, it receives a first-class treatment with our professional team.
+                    </p>
+                 </div>
+
+                <div class="card">
+                    
+                    <i data-feather="dribbble"></i>
+                   <h3> Court and Gym </h3>
+                    <p> Here you can keep your physical conditioning, between the options "fitness" and "bodybuilding", ideal to your welfare and life quality. </p>
+                 </div>
+          </div>
+        
+       </section>
+
+       <section class="mapa">
+           
+        <div id="map"></div>
+
+    </section>
+
+    <a href="#top" class="top"> <i data-feather="arrow-up"></i> </a>
+
+     <section id="contato" class="contato">
+            <h1 class="contato-titulo"> Contact </h1>
+            <div class="contato-card">
+            
+                <div class="cards">
+                    <i data-feather="map-pin"></i>
+                  
+                    
+                    <p> Avenida Presidente Vargas, 100 <br> Centro / CEP: 14860-000 <br> Barrinha - São Paulo - Brasil </p>
+                   </div>
+                   <div class="cards">
+                       <i data-feather="phone"></i>
+                      
+                       
+                       <p> (16) 1234-5678</p>
+                    </div>
+   
+                   <div class="cards">
+                       
+                       <i data-feather="mail"></i>
+                     
+                       <p> contatohotelvalhalla@gmail.com </p>
+                    </div>
+            </div>
+        </section>
+
+    <section class="formulario-contato">
+        <h1> Leave a message </h1>
+
+        <form action="https://formsubmit.co/contatohotelvalhalla@gmail.com" method="POST"
+        class="form">
+            
+
+            <label for="name" id="name"> Name </label>
+            <input type="text" name="name" required />
+
+            <label for="email" id="email"> E-mail </label>
+            <input type="email" name="email" required />
+
+            <label for="message" id="message"> Message </label>
+            <textarea name="message" placeholder="Leave your message"></textarea>
+
+            <input type="hidden" name="_captcha" value="false">
+            <input type="hidden" name="_next" value="http://127.0.0.1:5500/contato.html">
+
+            <button type="submit"> Send </button>
+        </form>
+  
+    
+    </section>
+
+        <script>
+            feather.replace()
+
+            function initMap() {
+        const uluru = { lat: -29.3688, lng: -50.8786 };
+        const map = new google.maps.Map(document.getElementById("map"), {
+          zoom: 4,
+          center: uluru,
+        });
+        const marker = new google.maps.Marker({
+          position: uluru,
+          map: map,
+        });
+      }
+          </script>
+
+<script
+src="https://maps.googleapis.com/maps/api/js?callback=initMap&libraries=&v=weekly"
+async
+></script>
+    </body>
+</html>
